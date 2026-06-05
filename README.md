@@ -55,7 +55,9 @@ int main()
 }
 ```
 # OUTPUT:
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/411b5f5c-a37b-4688-8f3d-f244f1ac2acf" />
+
+<img width="1280" height="960" alt="WhatsApp Image 2026-06-05 at 8 12 52 AM" src="https://github.com/user-attachments/assets/68a2ef42-59dd-459f-9b68-acdb4c6e44c8" />
+
 
 # RESULT:
 
